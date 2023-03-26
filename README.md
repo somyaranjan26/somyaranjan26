@@ -10,7 +10,7 @@ Creative and People-Oriented developer with a passion for cloud computing and fu
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=somyaranjan26&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=somyaranjan26&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somyaranjan26&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<center> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=somyaranjan26&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) </center>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=somyaranjan26&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
